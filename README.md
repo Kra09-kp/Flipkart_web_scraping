@@ -7,6 +7,18 @@ In this project, I have done web scraping on Flipkart website using Python. I ha
 - requests
 - pandas
 
+## Files included:
+- flipkart_web_scraping.ipynb
+    This file contains the code for web scraping on Flipkart website.
+- laptop_data.csv
+    This file contains the data extracted from the Flipkart website.
+- cleaning_data.ipynb
+    This file contains the code for cleaning the data.
+- cleaned_data.csv
+    This file contains the cleaned data.
+
+
+
 ## Steps:
 1. Send an HTTP request to the URL of the webpage you want to access.
 2. Parse the HTML content of the page to extract the data.
